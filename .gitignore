@@ -15,7 +15,7 @@ base-model/
 output/
 dataset/*
 !dataset/test.wav
-!dataset/example.json
+!dataset/example.jsonl
 WhisperDesktop
 
 # Byte-compiled / optimized / DLL files

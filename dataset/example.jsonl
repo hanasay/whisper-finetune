@@ -1,0 +1,5 @@
+{"audio": {"path": "example1.wav"}, "sentence": "你就說我們在玩捉迷藏。我跑去躲起來了知道嗎。那你的哨子借我玩。現在我要用", "language": "Chinese", "duration": 7.872}
+{"audio": {"path": "example2.wav"}, "sentence": "我還是先等蘇足媽說完。等她說完我再吃。不然被她盯著看。我怎麼吃得下", "language": "Chinese", "duration": 9.768}
+{"audio": {"path": "example3.wav"}, "sentence": "現在我們家每餐都十幾樣菜。這樣會不會太多 太浪費。我也是當媽媽的。哪有", "language": "Chinese", "duration": 9.508572000000001}
+{"audio": {"path": "example4.wav"}, "sentence": "你一直都是我們最心愛的媽媽。你們都沒說。我怎麼會知道。你們就任由媽媽猜", "language": "Chinese", "duration": 9.769796000000001}
+{"audio": {"path": "example5.wav"}, "sentence": "一個人所做的事是因。將來的後果要自己承擔。自己負責。萬一以後", "language": "Chinese", "duration": 9.769796}
