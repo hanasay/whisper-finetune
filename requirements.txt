@@ -1,0 +1,21 @@
+numpy>=1.23.1
+soundfile>=0.12.1
+librosa>=0.10.0
+dataclasses>=0.6
+transformers>=4.39.3
+bitsandbytes>=0.41.0
+datasets>=2.11.0
+evaluate>=0.4.0
+ctranslate2==4.4.0
+faster-whisper @ git+https://github.com/SYSTRAN/faster-whisper
+jiwer>=2.5.1
+peft>=0.6.2
+accelerate>=0.21.0
+zhconv>=1.4.2
+tqdm>=4.62.1
+soundcard>=0.4.2
+uvicorn>=0.21.1
+fastapi>=0.95.1
+starlette>=0.26.1
+wandb
+gradio
